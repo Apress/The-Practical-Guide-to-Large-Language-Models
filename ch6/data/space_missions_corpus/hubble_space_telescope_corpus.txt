@@ -1,0 +1,204 @@
+HUBBLE SPACE TELESCOPE — A DOMAIN CORPUS ARTICLE FOR CONTINUED PRETRAINING
+Version: 1.0
+License note: This text is original and may be used as training material.
+
+-------------------------------------------------------------------------------
+SECTION 0 — WHAT IS HUBBLE?
+-------------------------------------------------------------------------------
+The Hubble Space Telescope (HST) is an Earth‑orbiting observatory that views
+the Universe above the atmosphere. Placing a telescope in space avoids the
+blurring and absorption caused by air, enabling sharp images and access to
+ultraviolet light that does not reach the ground. Hubble is a general‑purpose
+observatory: it can image, measure spectra, and time‑monitor targets across a
+wide range of science, from nearby planets and star‑forming regions to distant
+galaxies. It is operated as a community facility, with observing time awarded
+to scientists through peer‑reviewed proposals. Data ultimately enter a public
+archive for anyone to use.
+
+This article focuses on durable concepts: optics, instruments, operations,
+calibration, and how Hubble produces reliable science data.
+
+-------------------------------------------------------------------------------
+SECTION 1 — OPTICS AND IMAGE FORMATION
+-------------------------------------------------------------------------------
+Primary Mirror and Optical Path
+  • Hubble uses a two‑mirror Ritchey–Chrétien design with a 2.4‑meter primary.
+  • Light reflects from the primary to a secondary mirror and then into the
+    instrument bay, where cameras and spectrographs sit at the focal plane.
+  • The mirrors are made of low‑expansion glass and are thermally controlled.
+
+Image Quality and Aberration Correction
+  • Early in the mission, a small error in the primary mirror’s figure caused
+    spherical aberration. This was corrected by installing optics that cancel
+    the error, either in a dedicated corrective module or inside new instruments.
+  • Modern Hubble instruments incorporate this correction, delivering sharp,
+    stable images when the telescope is properly guided.
+
+Fine Guidance
+  • Fine Guidance Sensors (FGS) lock onto guide stars to hold pointing steady.
+  • Reaction wheels reorient the observatory; gyroscopes measure rotation.
+  • Magnetic torquers offload momentum that builds up in the wheels.
+
+-------------------------------------------------------------------------------
+SECTION 2 — INSTRUMENTS (PLAIN OVERVIEW)
+-------------------------------------------------------------------------------
+Hubble carries multiple science instruments; exact line‑ups have changed over
+its lifetime as new ones were installed during servicing missions. Today’s
+capabilities cover ultraviolet (UV), visible (optical), and near‑infrared (IR)
+light. Names commonly encountered include:
+
+  • WFC3 — Wide Field Camera 3, with two channels:
+      – UVIS channel: ultraviolet and visible imaging with many filters.
+      – IR channel: near‑infrared imaging for dusty regions and distant galaxies.
+  • ACS — Advanced Camera for Surveys, optimized for wide‑field optical imaging
+      and surveys; useful for galaxy evolution, clusters, and lensing.
+  • COS — Cosmic Origins Spectrograph, highly sensitive in the UV for studying
+      the interstellar and intergalactic medium and the atmospheres of stars.
+  • STIS — Space Telescope Imaging Spectrograph: imaging spectroscopy in UV
+      and visible, used for kinematics, black hole mass measurements, and
+      time‑series spectroscopy (including transits and eclipses).
+  • FGS — Fine Guidance Sensors also act as scientific interferometers for
+      high‑precision astrometry in special observing modes.
+
+Each instrument has modes (filters, gratings, slits) chosen to match the
+science goals. Calibrations—such as bias, dark, flat‑field, wavelength
+solutions, and geometric distortion—convert raw frames into physical units.
+
+-------------------------------------------------------------------------------
+SECTION 3 — ORBIT AND OPERATIONS
+-------------------------------------------------------------------------------
+Orbit
+  • Hubble flies in low Earth orbit and circles the planet in roughly an
+    hour and a half. Because Earth blocks part of the sky each orbit,
+    targets are visible in windows. The telescope also experiences day/night
+    thermal cycles and passes through regions of higher radiation.
+Pointing Constraints
+  • The telescope avoids looking too near the Sun, Moon, and bright Earth to
+    protect optics and sensors. Some instruments have additional bright‑object
+    limits to avoid detector damage.
+Scheduling
+  • Operations teams plan observations weeks to months in advance. A schedule
+    sequences slews, exposures, and data “buffer dumps.” Visibility windows,
+    guide star availability, and spacecraft constraints are balanced to make
+    efficient use of time.
+Safe Mode
+  • If on‑board monitors detect a fault (thermal, power, attitude), Hubble
+    enters a protective configuration. The telescope points its solar arrays
+    for power and waits for ground teams to analyze and recover.
+
+-------------------------------------------------------------------------------
+SECTION 4 — SERVICING MISSIONS (HISTORICAL CONTEXT)
+-------------------------------------------------------------------------------
+Hubble was designed for in‑space servicing by astronauts. During its active
+servicing era, instruments were upgraded, gyros replaced, and repairs made.
+A crucial early servicing installed optical correction to fix spherical
+aberration. Later missions added modern cameras and spectrographs. Servicing
+extended the observatory’s useful life and refreshed its science capabilities.
+In the current era, Hubble operates without further servicing; operations and
+calibrations are managed from the ground.
+
+-------------------------------------------------------------------------------
+SECTION 5 — FROM PROPOSAL TO DATA PRODUCT
+-------------------------------------------------------------------------------
+Proposals and Time Allocation
+  • Scientists submit proposals that explain targets, exposure times, and
+    modes. Peer review ranks the proposals; time is awarded accordingly.
+  • Programs include general observer (GO) time, long‑term campaigns,
+    treasury surveys, and target‑of‑opportunity triggers for transient events.
+
+Commanding and Downlink
+  • Approved programs are converted into detailed command sequences. The
+    observatory executes them autonomously, with routine contact through
+    relay satellites. Raw telemetry contains both science and engineering data.
+
+Calibration and Pipelines
+  • Data are processed by instrument‑specific pipelines (for example, “calacs”
+    and “calwf3”). Steps include bias and dark subtraction, flat‑fielding,
+    wavelength calibration for spectra, and removal of detector artifacts.
+  • Imaging products are often combined using “drizzling,” a resampling
+    technique that improves resolution and handles geometric distortion.
+Archiving and Access
+  • After calibration, data and documentation are placed in a public archive.
+    Many programs have an initial proprietary period, after which products and
+    high‑level science catalogs become available to anyone.
+
+-------------------------------------------------------------------------------
+SECTION 6 — SCIENCE THEMES (SELECTED EXAMPLES)
+-------------------------------------------------------------------------------
+Distance Scale and Cosmology
+  • Precise measurements of Cepheid variables and supernovae improved the
+    cosmic distance ladder and helped constrain the expansion rate of the Universe.
+
+Galaxy Evolution and Deep Fields
+  • Ultra‑deep imaging revealed faint, distant galaxies and mapped star‑formation
+    history across cosmic time. Gravitational lensing observations helped probe
+    dark matter in clusters.
+
+Black Holes and Kinematics
+  • High‑resolution spectroscopy and imaging resolved the motions of gas and
+    stars near galactic centers, leading to robust evidence for supermassive
+    black holes and estimates of their masses.
+
+Star Formation and Protoplanetary Disks
+  • Hubble’s sharp vision in dusty regions captured jets, shocks, and disks
+    around young stars, informing models of how planetary systems assemble.
+
+Exoplanet Atmospheres (Transit Spectroscopy)
+  • Time‑series spectroscopy across transits has been used to detect features
+    in the atmospheres of some exoplanets, complementing ground‑based and other
+    space observatories.
+
+Solar System Targets
+  • Imaging and spectroscopy of planets, moons, comets, and asteroids provide
+    context for in‑situ missions and long‑term monitoring of atmospheric changes.
+
+-------------------------------------------------------------------------------
+SECTION 7 — CALIBRATION DETAILS (PRACTICAL VIEW)
+-------------------------------------------------------------------------------
+Instrument calibrations are continuous because detectors age and conditions vary.
+Key concepts include:
+  • Bias and Dark: detector signatures measured with zero or closed‑shutter exposure.
+  • Flats: pixel‑to‑pixel sensitivity maps for each filter or grating setting.
+  • Geometric Distortion: mapping from detector coordinates to sky coordinates.
+  • Cosmic-Ray Rejection: combining multiple exposures to remove transient hits.
+  • Photometric Zeropoints: conversion from counts to magnitudes or physical flux.
+  • Line Spread and Point Spread Functions: instrumental profiles used to model
+    spectra and resolve crowded fields.
+
+-------------------------------------------------------------------------------
+SECTION 8 — LIMITATIONS AND GOOD PRACTICES
+-------------------------------------------------------------------------------
+  • Earth occultations interrupt long integrations; plan around visibility windows.
+  • Bright‑object protection must be respected; exceeding limits risks damage.
+  • Detector persistence and saturation can affect near‑infrared data; use
+    appropriate readout patterns and exposure sequences.
+  • Archive users should read the instrument handbooks and data handbooks to
+    understand modes, caveats, and recommended reduction steps.
+
+-------------------------------------------------------------------------------
+SECTION 9 — GLOSSARY (PLAIN DEFINITIONS)
+-------------------------------------------------------------------------------
+ACS — Advanced Camera for Surveys, an imaging instrument.
+Aperture — the effective opening of a telescope’s light‑collecting system.
+Calibration — the process that converts raw counts into physically meaningful units.
+COS — Cosmic Origins Spectrograph, a UV spectrograph.
+Drizzling — image combination method that improves sampling and handles distortion.
+FGS — Fine Guidance Sensor, for precise guiding and astrometry.
+Gyro (gyroscope) — a sensor that measures angular rate for attitude control.
+HST — Hubble Space Telescope.
+MAST — Mikulski Archive for Space Telescopes, a public science archive.
+PSF — Point Spread Function, the image of a point source through optics + detector.
+STIS — Space Telescope Imaging Spectrograph.
+WFC3 — Wide Field Camera 3, with UVIS and IR channels.
+Zeropoint — a calibration constant linking counts to standardized brightness.
+
+-------------------------------------------------------------------------------
+SECTION 10 — BEGINNER FAQ (FOR EVALUATION AFTER DAPT)
+-------------------------------------------------------------------------------
+1) Why does Hubble observe in UV, optical, and near‑IR instead of far‑IR or X‑rays?
+2) How do guide stars and reaction wheels work together to keep Hubble steady?
+3) What steps transform a raw exposure into a science‑ready image?
+4) Why do some Hubble images combine multiple filters into color composites?
+5) What makes deep‑field observations scientifically powerful?
+
+END OF ARTICLE

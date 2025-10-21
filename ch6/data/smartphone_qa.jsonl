@@ -1,0 +1,100 @@
+{"instruction": "How do I turn on the smartphone?", "response": "Press and hold the power button for a few seconds until the logo appears."}
+{"instruction": "How do I turn off the smartphone?", "response": "Press and hold the power button, then choose “Power off” on the screen."}
+{"instruction": "How do I take a screenshot?", "response": "Press the power button and the volume down button at the same time."}
+{"instruction": "How do I increase the screen brightness?", "response": "Swipe down from the top and use the brightness slider."}
+{"instruction": "How do I turn on the flashlight?", "response": "Open Quick Settings and tap the flashlight icon."}
+{"instruction": "How do I change the wallpaper?", "response": "Go to Settings → Wallpaper and choose an image."}
+{"instruction": "How do I turn on airplane mode?", "response": "Swipe down from the top and tap the airplane icon."}
+{"instruction": "How do I change the ringtone volume?", "response": "Use the side volume buttons while on the home screen."}
+{"instruction": "How can I check my OS version?", "response": "Open Settings → About phone to see the Android/iOS version."}
+{"instruction": "How do I show battery percentage?", "response": "In display or battery settings, enable “Show battery percentage.”"}
+{"instruction": "How do I call a contact?", "response": "Open the Phone app, search or tap the contact, then press the call button."}
+{"instruction": "How do I add a new contact?", "response": "In the Contacts app, tap “+” (Add) and fill in the details."}
+{"instruction": "How do I delete a contact?", "response": "Open the contact, tap the menu or Edit, then choose Delete."}
+{"instruction": "How do I hide my number when calling?", "response": "In call settings, enable “Hide caller ID” or “Show my caller ID: Off.”"}
+{"instruction": "How do I block a phone number?", "response": "From the call log, tap the number, then select Block/Report spam."}
+{"instruction": "How do I enable call forwarding?", "response": "In call settings, open Call forwarding and set the destination number."}
+{"instruction": "How do I send an SMS?", "response": "Open Messages → New message, enter the number or contact, type text, and send."}
+{"instruction": "How do I attach a photo to an SMS?", "response": "Tap the attachment (+ or paperclip) icon in the message composer, then choose a photo."}
+{"instruction": "How do I use voicemail?", "response": "Set up voicemail with your carrier or Voicemail app, then dial and follow prompts."}
+{"instruction": "How do I see my call history?", "response": "Open the Phone app and go to the Recents or Call history tab."}
+{"instruction": "How do I turn on Wi‑Fi?", "response": "Swipe down and tap the Wi‑Fi icon, or go to Settings → Wi‑Fi and toggle it on."}
+{"instruction": "How do I connect to a new Wi‑Fi network?", "response": "In Settings → Wi‑Fi, choose the network and enter its password."}
+{"instruction": "How do I turn on mobile data?", "response": "Open Quick Settings and enable Mobile data or Cellular data."}
+{"instruction": "How do I enable 5G?", "response": "In cellular network settings, select 5G as the preferred network type (if supported)."}
+{"instruction": "How do I turn on a Wi‑Fi hotspot?", "response": "Go to Settings → Hotspot/Tethering and enable Wi‑Fi hotspot."}
+{"instruction": "How do I change the hotspot password?", "response": "In Hotspot settings, edit the SSID and password fields."}
+{"instruction": "How do I check data usage?", "response": "Open Settings → Network & Internet → Data usage (or Cellular) for statistics."}
+{"instruction": "How do I disable internet for specific apps?", "response": "In app settings or Data usage controls, restrict background or mobile data."}
+{"instruction": "How do I enable a VPN?", "response": "In Settings → VPN, add a VPN profile or open your VPN app and connect."}
+{"instruction": "How do I forget saved Wi‑Fi networks?", "response": "In Wi‑Fi settings, tap a saved network and choose “Forget.”"}
+{"instruction": "How do I open the camera?", "response": "Tap the Camera app icon or double-press the power button (on supported devices)."}
+{"instruction": "How do I switch to the front camera?", "response": "Tap the camera switch icon to toggle between rear and front cameras."}
+{"instruction": "How do I record a video?", "response": "In the Camera app, switch to Video mode and press the record button."}
+{"instruction": "How do I use Night mode?", "response": "Select Night mode in the camera modes; keep the phone steady while shooting."}
+{"instruction": "How do I enable HDR?", "response": "In camera settings or on-screen controls, turn on HDR (if available)."}
+{"instruction": "How do I set a camera timer?", "response": "Tap the timer icon in the camera and choose a countdown time."}
+{"instruction": "How do I zoom in the camera?", "response": "Pinch to zoom on the viewfinder or tap the zoom levels (e.g., 2x)."}
+{"instruction": "How do I use the ultra‑wide camera?", "response": "Tap the ultra‑wide lens option (e.g., 0.5x) in the camera app."}
+{"instruction": "How do I take burst photos?", "response": "Press and hold the shutter button to capture a burst series."}
+{"instruction": "How do I shoot a panorama?", "response": "Select Panorama mode and follow the on-screen guide to move the phone."}
+{"instruction": "How do I find my photos?", "response": "Open Photos/Gallery; use Albums or Search to locate images."}
+{"instruction": "How do I delete a photo?", "response": "Open the photo and tap Delete; confirm to move it to the trash."}
+{"instruction": "How do I restore deleted photos?", "response": "Open the Trash/Recently Deleted album and restore within the retention period."}
+{"instruction": "How do I create a photo album?", "response": "In Photos/Gallery, tap Create album and add selected photos."}
+{"instruction": "How do I edit a photo?", "response": "Open the photo, tap Edit, and adjust crop, exposure, or filters; save changes."}
+{"instruction": "How do I send a photo in a chat app?", "response": "In the chat, tap + or the gallery icon and select the photo to send."}
+{"instruction": "How do I transfer photos to a computer?", "response": "Connect via USB and choose File transfer (MTP) or use a cloud service."}
+{"instruction": "How do I enable automatic photo backup?", "response": "Turn on sync in Google Photos or iCloud Photos in settings."}
+{"instruction": "How do I hide or lock photos?", "response": "Use the “Locked folder”/Hidden album feature or a secure folder app."}
+{"instruction": "How do I scan a document with my phone?", "response": "Use Google Drive, Files, or Notes app and choose Scan; align and save."}
+{"instruction": "How do I install an app?", "response": "Use Google Play Store or Apple App Store to search and install."}
+{"instruction": "How do I uninstall an app?", "response": "Long-press the app icon and choose Uninstall or Remove App."}
+{"instruction": "How do I update apps?", "response": "Open the app store’s Updates section and tap Update or Update all."}
+{"instruction": "How do I enable automatic app updates?", "response": "In the store settings, turn on Automatic updates over Wi‑Fi."}
+{"instruction": "How do I disable app notifications?", "response": "Go to Settings → Notifications and turn off for specific apps."}
+{"instruction": "How do I install an APK file?", "response": "Enable installs from unknown sources, then open the APK file (Android only)."}
+{"instruction": "How do I find an app on my phone?", "response": "Swipe down on the home screen and type the app name in Search."}
+{"instruction": "How do I limit screen time for apps?", "response": "Use Digital Wellbeing/Screen Time to set app limits and downtime."}
+{"instruction": "How do I move an app to another screen?", "response": "Long-press the icon and drag it to the desired home screen page."}
+{"instruction": "How do I add a widget?", "response": "Long-press on the home screen and select Widgets, then choose one."}
+{"instruction": "How do I set a lock screen password or PIN?", "response": "Go to Settings → Security/Face ID & Passcode and set a screen lock."}
+{"instruction": "How do I set up a fingerprint unlock?", "response": "In Security settings, add a fingerprint and follow the enrollment steps."}
+{"instruction": "How do I enable Face ID/face unlock?", "response": "In Security or Face ID settings, enroll your face following on-screen steps."}
+{"instruction": "How do I find a lost phone?", "response": "Use Google Find My Device or Apple Find My to locate it on a map."}
+{"instruction": "How do I erase my phone remotely if it’s lost?", "response": "From Find My Device/Find My, choose Erase device to wipe data remotely."}
+{"instruction": "How do I turn on two-factor authentication?", "response": "Enable 2FA in your Google/Apple ID account security settings."}
+{"instruction": "How do I review app permissions?", "response": "Open Settings → Privacy/Permissions and review per-app access."}
+{"instruction": "How do I set auto-lock for the screen?", "response": "In Display or Security settings, choose Auto-lock/Screen timeout."}
+{"instruction": "How do I boot into safe mode?", "response": "Press and hold power, then touch and hold “Power off” to enter Safe Mode (Android)."}
+{"instruction": "How do I encrypt my phone’s data?", "response": "In Security settings, enable device encryption (often on by default)."}
+{"instruction": "How do I enable battery saver mode?", "response": "Go to Settings → Battery and turn on Battery Saver/Low Power Mode."}
+{"instruction": "How do I see which apps drain the battery?", "response": "Open Battery settings to view usage by app and screen time."}
+{"instruction": "How do I use fast charging?", "response": "Use the original or certified fast charger and compatible cable."}
+{"instruction": "How do I use wireless charging?", "response": "Place the phone on a compatible Qi wireless charging pad."}
+{"instruction": "How do I extend battery life?", "response": "Lower brightness, disable unused radios (GPS/Wi‑Fi), and limit background apps."}
+{"instruction": "How do I check battery health?", "response": "Open Battery settings for Battery health (on iOS) or use vendor tools on Android."}
+{"instruction": "How do I enable optimized charging?", "response": "Turn on Optimized/Adaptive charging in Battery settings."}
+{"instruction": "How do I check screen-on time?", "response": "Open Battery usage details; look for Screen on time."}
+{"instruction": "How do I restrict background activity?", "response": "In Battery or App settings, limit background activity for selected apps."}
+{"instruction": "How do I turn on ultra power-saving mode?", "response": "Enable Ultra power saving/Extreme battery saver in Battery settings."}
+{"instruction": "How do I change the system language?", "response": "Go to Settings → Language & region and choose your language."}
+{"instruction": "How do I enable dark mode?", "response": "In Display settings, turn on Dark theme/Appearance: Dark."}
+{"instruction": "How do I change text size?", "response": "In Display settings, adjust Font size/Text size to your preference."}
+{"instruction": "How do I change notification sounds?", "response": "Open Sound settings and choose tones for calls, messages, and alerts."}
+{"instruction": "How do I set a custom ringtone?", "response": "In Sound settings, select Ringtone and pick a file or default tone."}
+{"instruction": "How do I enable vibration?", "response": "In Sound or Accessibility settings, toggle Vibrate on ring/alerts."}
+{"instruction": "How do I use live wallpapers?", "response": "Go to Wallpaper settings and choose a Live wallpaper (if supported)."}
+{"instruction": "How do I customize gesture navigation?", "response": "Open System settings → Gestures and adjust navigation options."}
+{"instruction": "How do I enable Always‑On Display?", "response": "In Display settings, turn on Always‑On Display (device dependent)."}
+{"instruction": "How do I hide apps from the home screen?", "response": "Use Home screen settings or a secure folder to hide selected apps."}
+{"instruction": "How do I enable Developer options?", "response": "Go to About phone and tap Build number seven times to unlock Developer options."}
+{"instruction": "How do I record the screen?", "response": "Open Quick Settings and tap Screen recorder, then start recording."}
+{"instruction": "How do I pair Bluetooth headphones?", "response": "Enable Bluetooth, open Bluetooth settings, and select the headphones to pair."}
+{"instruction": "How do I share internet over Bluetooth?", "response": "Enable Bluetooth tethering in Hotspot & Tethering settings."}
+{"instruction": "How do I connect my phone to a TV?", "response": "Use Chromecast, AirPlay, Miracast, or an HDMI adapter depending on the TV."}
+{"instruction": "How do I transfer files via NFC?", "response": "Turn on NFC and use a supported sharing feature (varies by Android version)."}
+{"instruction": "How do I sync contacts with Google?", "response": "In Accounts settings, select Google and enable Contacts sync."}
+{"instruction": "How do I move data to a new phone?", "response": "Use Android/Apple setup transfer tools or a cable for device-to-device migration."}
+{"instruction": "How do I check for system updates?", "response": "Open Settings → Software update/System update and tap Check for updates."}
+{"instruction": "How do I factory reset my phone?", "response": "Go to Settings → System/General → Reset → Erase all data (factory reset)."}

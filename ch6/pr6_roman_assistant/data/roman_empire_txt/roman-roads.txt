@@ -1,0 +1,302 @@
+# Roman roads
+Source: https://en.wikipedia.org/wiki/Roman_roads
+
+Roman roads (Latin: viae Romanae [ˈwiae̯ roːˈmaːnae̯]; singular: via Romana [ˈwia roːˈmaːna]; meaning "Roman way") were physical infrastructure vital to the maintenance and development of the Roman state, built from about 300 BC through the expansion and consolidation of the Roman Republic and the Roman Empire. They provided efficient means for the overland movement of armies, officials, civilians, inland carriage of official communications, and trade goods. Roman roads were of several kinds, ranging from small local roads to broad, long-distance highways built to connect cities, major towns and military bases. These major roads were often stone-paved and metaled, cambered for drainage, and were flanked by footpaths, bridleways and drainage ditches. They were laid along accurately surveyed courses, and some were cut through hills or conducted over rivers and ravines on bridgework. Sections could be supported over marshy ground on rafted or piled foundations.
+At the peak of Rome's development, no fewer than 29 great military highways radiated from the capital, and the empire's 113 provinces were interconnected by 372 great roads. The whole comprised more than 400,000 kilometres (250,000 miles) of roads, of which over 80,500 kilometres (50,000 mi) were stone-paved.  In Gaul alone, no less than 21,000 kilometres (13,000 mi) of roadways are said to have been improved, and in Britain at least 4,000 kilometres (2,500 mi). The courses (and sometimes the surfaces) of many Roman roads survived for millennia; some are overlaid by modern roads.
+
+Roman systems
+Livy mentions some of the most familiar roads near Rome, and the milestones on them, at times long before the first paved road—the Appian Way. Unless these allusions are just simple anachronisms, the roads referred to were probably at the time little more than levelled earthen tracks. Thus, the Via Gabiana (during the time of Porsena) is mentioned in about 500 BC; the Via Latina (during the time of Gaius Marcius Coriolanus) in about 490 BC; the Via Nomentana (also known as "Via Ficulensis"), in 449 BC; the Via Labicana in 421 BC; and the Via Salaria in 361 BC.
+In the Itinerary of Antoninus, the description of the road system is as follows:
+
+With the exception of some outlying portions, such as Britain north of the Wall, Dacia, and certain provinces east of the Euphrates, the whole Empire was penetrated by these itinera (plural of iter). There is hardly a district to which we might expect a Roman official to be sent, on service either civil or military, where we do not find roads. They reach the Wall in Britain; run along the Rhine, the Danube, and the Euphrates; and cover, as with a network, the interior provinces of the Empire.
+A road map of the empire reveals that it was generally laced with a dense network of prepared viae. Beyond its borders there were no paved roads; however, it can be supposed that footpaths and dirt roads allowed some transport. There were, for instance, some pre-Roman ancient trackways in Britain, such as the Ridgeway and the Icknield Way.
+
+Laws and traditions
+The Laws of the Twelve Tables, dated to about 450 BC, required that any public road (Latin via) be 8 Roman feet (perhaps about 2.37 m) wide where straight and twice that width where curved. These were probably the minimum widths for a via; in the later republic, widths of around 12 Roman feet were common for public roads in rural regions, permitting the passing of two carts of standard (4 foot) width without interference to pedestrian traffic. Actual practices varied from this standard. The Tables command Romans to build public roads and give wayfarers the right to pass over private land where the road is in disrepair. Building roads that would not need frequent repair therefore became an ideological objective, as well as building them as straight as practicable to construct the shortest possible roads, and thus save on material.
+Roman law defined the right to use a road as a servitus, or liability. The ius eundi ("right of going") established a claim to use an iter, or footpath, across private land; the ius agendi ("right of driving"), an actus, or carriage track. A via combined both types of servitutes, provided it was of the proper width, which was determined by an arbiter. The default width was the latitudo legitima of 8 feet. Roman law and tradition forbade the use of vehicles in urban areas, except in certain cases. Married women and government officials on business could ride. The Lex Julia Municipalis restricted commercial carts to night-time access in the city within the walls and within a mile outside the walls.
+
+Types
+Roman roads varied from simple corduroy roads to paved roads using deep roadbeds of tamped rubble as an underlying layer to ensure that they kept dry, as the water would flow out from between the stones and fragments of rubble instead of becoming mud in clay soils. According to Ulpian, there were three types of roads:
+
+Viae publicae, consulares, praetoriae or militares
+Viae privatae, rusticae, glareae or agrariae
+Viae vicinales
+
+Viae publicae, consulares, praetoriae and militares
+The first type of road included public high or main roads, constructed and maintained at the public expense, and with their soil vested in the state. Such roads led either to the sea, to a town, to a public river (one with a constant flow), or to another public road. Siculus Flaccus, who lived under Trajan (98–117), calls them viae publicae regalesque, and describes their characteristics as follows:
+
+They are placed under curatores (commissioners), and repaired by redemptores (contractors) at the public expense; a fixed contribution, however, being levied from the neighboring landowners.
+These roads bear the names of their constructors (e.g. Via Appia, Cassia, Flaminia).
+Roman roads were named after the censor who had ordered their construction or reconstruction. The same person often served afterwards as consul, but the road name is dated to his term as censor. If the road was older than the office of censor or was of unknown origin, it was named for its destination or the region through which it mainly passed. A road was renamed if the censor ordered major work on it, such as paving, repaving, or rerouting. With the term viae regales compare the roads of the Persian kings (who probably organized the first system of public roads) and the King's Highway. With the term viae militariae compare the Icknield Way (Icen-hilde-weg, or "War-way of the Iceni").
+There were many other people, besides special officials, who from time to time and for a variety of reasons sought to connect their names with a great public service like that of the roads. Gaius Gracchus, when Tribune of the People (123–122 BC), paved or gravelled many of the public roads and provided them with milestones and mounting-blocks for riders. Gaius Scribonius Curio, when Tribune (50 BC), sought popularity by introducing a Lex Viaria, under which he was to be chief inspector or commissioner for five years. Dio Cassius mentions that the Second Triumvirate obliged the Senators to repair the public roads at their own expense.
+
+Viae privatae, rusticae, glareae and agrariae
+The second category included private or country roads, originally constructed by private individuals, in whom their soil was vested and who had the power to dedicate them to the public use. Such roads benefited from a right of way in favor either of the public or of the owner of a particular estate. Under the heading of viae privatae were also included roads leading from the public or high roads to particular estates or settlements; Ulpian considers these to be public roads.
+Features off the via were connected to the via by viae rusticae, or secondary roads. Both main or secondary roads might either be paved or left unpaved with a gravel surface, as they were in North Africa. These prepared but unpaved roads were viae glareae or sternendae ("to be strewn"). Beyond the secondary roads were the viae terrenae, "dirt roads".
+
+Viae vicinales
+The third category comprised roads at or in villages, districts, or crossroads, leading through or towards a vicus or village. Such roads ran either into a high road or into other viae vicinales, without any direct communication with a high road. They were considered public or private, according to the fact of their original construction out of public or private funds or materials. Such a road, though privately constructed, became a public road when the memory of its private constructors had perished.
+Siculus Flaccus describes viae vicinales as roads "de publicis quae divertunt in agros et saepe ad alteras publicas perveniunt" (which turn off the public roads into fields, and often reach to other public roads). The repairing authorities, in this case, were the magistri pagorum or magistrates of the cantons. They could require the neighboring landowners either to furnish laborers for the general repair of the viae vicinales, or to keep in repair, at their own expense, a certain length of road passing through their respective properties.
+
+Governance and financing
+With the conquest of Italy, prepared viae were extended from Rome and its vicinity to outlying municipalities, sometimes overlying earlier roads. Building viae was a military responsibility and thus came under the jurisdiction of a consul. The process had a military name, viam munire, as though the via were a fortification. Municipalities, however, were responsible for their own roads, which the Romans called viae vicinales. Roads were not free to use; tolls abounded, especially at bridges. Often they were collected at the city gate. Freight costs were made heavier still by import and export taxes. These were only the charges for using the roads. Costs of services on the journey went up from there.
+Financing road building was a Roman government responsibility. Maintenance, however, was generally left to the province. The officials tasked with fund-raising were the curatores viarum. They had a number of methods available to them. Private citizens with an interest in the road could be asked to contribute to its repair. High officials might distribute largesse to be used for roads. Censors, who were in charge of public morals and public works, were expected to fund repairs suâ pecuniâ (with their own money). Beyond those means, taxes were required.
+A via connected two cities. Viae were generally centrally placed in the countryside. The construction and care of the public roads, whether in Rome, in Italy, or in the provinces, was, at all periods of Roman history, considered to be a function of the greatest weight and importance. This is clearly shown by the fact that the censors, in some respects the most venerable of Roman magistrates, had the earliest paramount authority to construct and repair all roads and streets. Indeed, all the various functionaries, including emperors, who succeeded the censors in this portion of their duties, may be said to have exercised a devolved censorial jurisdiction.
+
+Costs and civic responsibilities
+The devolution to the censorial jurisdictions became a practical necessity, resulting from the growth of the Roman dominions and the diverse labors which detained the censors in the capital city. Certain ad hoc official bodies successively acted as constructing and repairing authorities. In Italy, the censorial responsibility passed to the commanders of the Roman armies and later to special commissioners, and in some cases perhaps to the local magistrates. In the provinces, the consul or praetor and his legates received authority to deal directly with the contractor.
+The care of the streets and roads within the Roman territory was committed in the earliest times to the censors. They eventually made contracts for paving the street inside Rome, including the Clivus Capitolinus, with lava, and for laying down the roads outside the city with gravel. Sidewalks were also provided. The aediles, probably by virtue of their responsibility for the freedom of traffic and policing the streets, co-operated with the censors and the bodies that succeeded them.
+It would seem that in the reign of Claudius the quaestors had become responsible for the paving of the streets of Rome or at least shared that responsibility with the quattuorviri viarum. It has been suggested that the quaestors were obliged to buy their right to an official career by personal outlay on the streets. There was certainly no lack of precedents for this enforced liberality, and the change made by Claudius may have been a mere change in the nature of the expenditure imposed on the quaestors.
+
+Official bodies
+The official bodies which first succeeded the censors in the care of the streets and roads were:
+
+Quattuorviri viis in urbe purgandis, with jurisdiction inside the walls of Rome;
+Duoviri viis extra urbem purgandis, with jurisdiction outside the walls.
+Both these bodies were probably of ancient origin. The first mention of either body occurs in the Lex Julia Municipalis in 45 BC. The quattuorviri were afterwards called quattuorviri viarum curandarum. The extent of jurisdiction of the duoviri is derived from their full title as duoviri viis extra propiusve urbem Romam passus mille purgandis. Their authority extended over all roads between their respective gates of issue in the city wall and the first milestone beyond.
+In case of an emergency in the condition of a particular road, men of influence and liberality were appointed, or voluntarily acted, as curatores or temporary commissioners to superintend the work of repair. The dignity attached to such a curatorship is attested by a passage of Cicero. Among those who performed this duty in connection with particular roads was Julius Caesar, who became curator (67 BC) of the Via Appia and spent his own money liberally upon it. Certain persons appear also to have acted alone and taken responsibility for certain roads.
+In the country districts, the magistri pagorum had authority to maintain the viae vicinales. In Rome each householder was legally responsible for the repairs to that portion of the street which passed his own house; it was the duty of the aediles to enforce this responsibility. The portion of any street which passed a temple or public building was repaired by the aediles at the public expense. When a street passed between a public building or temple and a private house, the public treasury and the private owner shared the expense equally.
+
+Changes under Augustus
+The governing structure was changed by Augustus, who in the course of his reconstitution of the urban administration, both abolished and created new offices in connection with the maintenance of public works, streets, and aqueducts in and around Rome. The task of maintaining the roads had previously been administered by two groups of minor magistrates, the quattuorviri (a board of four magistrates to oversee the roads inside the city) and the duoviri (a board of two to oversee the roads outside the city proper) who were both part of the collegia known as the vigintisexviri (literally meaning "Twenty-Six Men").
+Augustus, finding the collegia ineffective, especially the boards dealing with road maintenance, reduced the number of magistrates from 26 to 20. Augustus abolished the duoviri and later granted the position as superintendent (according to Dio Cassius) of the road system connecting Rome to the rest of Italy and provinces beyond. In this capacity he had effectively given himself and any following emperors a paramount authority which had originally belonged to the city censors. The quattuorviri board was kept as it was until at least the reign of Hadrian (117 to 138 AD). Furthermore, he appointed praetorians to the offices of "road-maker" and assigning each one with two lictors, making the office of curator of each of the great public roads a perpetual magistracy rather than a temporary commission.
+The persons appointed under the new system were of senatorial or equestrian rank, depending on the relative importance of the roads assigned to them. It was the duty of each curator to issue contracts for the maintenance of his road and to see that the contractor who undertook said work performed it faithfully, as to both quantity and quality. Augustus also authorized the construction of sewers and removed obstructions to traffic, as the aediles did in Rome.
+It was in the character of an imperial curator (though probably armed with extraordinary powers) that Corbulo denounced the magistratus and mancipes of the Italian roads to Tiberius. He pursued them and their families with fines and imprisonment and was later rewarded with a consulship by Caligula, who also shared the habit of condemning well-born citizens to work on the roads. Under the rule of Claudius, Corbulo was brought to justice and forced to repay the money which had been extorted from his victims.
+
+Other curatores
+Special curatores for a term seem to have been appointed on occasion, even after the institution of the permanent magistrates bearing that title. The emperors who succeeded Augustus exercised a vigilant control over the condition of the public highways. Their names occur frequently in the inscriptions to restorers of roads and bridges. Thus, Vespasian, Titus, Domitian, Trajan, and Septimius Severus were commemorated in this capacity at Emérita. The Itinerary of Antoninus (which was probably a work of much earlier date and republished in an improved and enlarged form under one of the Antonine emperors) remains as standing evidence of the minute care which was bestowed on the service of the public roads.
+
+Construction and engineering
+Ancient Rome boasted impressive technological feats, using many advances that were lost during the Middle Ages. Some of these accomplishments would not be rivaled in Europe until the Modern Age. Many practical Roman innovations were adopted from earlier designs. Some of the common, earlier designs incorporated arches.
+
+Practices and terminology
+Roman road builders aimed at a regulation width (see Laws and traditions above), but actual widths have been measured at between 3.6 feet (1.1 metres) and more than 23 feet (7.0 metres). Today, the concrete has worn from the spaces around the stones, giving the impression of a very bumpy road, but the original practice was to produce a surface that was no doubt much closer to being flat. Many roads were built to resist rain, freezing and flooding. They were constructed to need as little repair as possible. 
+
+Roman construction took a directional straightness. Many long sections are ruler-straight, but it should not be thought that all of them were. Some links in the network were as long as 55 miles (89 km). Gradients of 10%–12% are known in ordinary terrain, 15%–20% in mountainous country.  The Roman emphasis on constructing straight roads often resulted in steep slopes relatively impractical for most commercial traffic; over the years the Romans realized this and built longer but more manageable alternatives to existing roads.  Roman roads were generally built with the road cutting through the hill, rather than with a serpentine pattern of switchbacks curving around it. 
+As to the standard Imperial terminology that was used, the words were localized for different elements used in construction and varied from region to region. Also, in the course of time, the terms via munita and vía publica became identical.
+
+Materials and methods
+Viae were distinguished according to their public or private character, as well as according to the materials employed and the methods followed in their construction. Ulpian divided them up in the following fashion:
+
+Via terrena: A plain road of leveled earth.
+Via glareata: An earthen road with a gravel surface.
+Via munita: A built road, paved with rectangular blocks of local rock or with polygonal blocks of volcanic rock.
+According to Isidore of Sevilla, the Romans borrowed the knowledge of construction of viae munitae from the Carthaginians, though certainly inheriting some construction techniques from the Etruscans.
+
+Via terrena
+The Viae terrenae were plain roads of leveled earth. These were mere tracks worn down by the feet of humans and animals, and possibly by wheeled carriages.
+
+Via glareata
+The Viae glareatae were earthen roads with a gravel surface or a gravel subsurface and paving on top. Livy speaks of the censors of his time as being the first to contract for paving the streets of Rome with flint stones, for laying gravel on the roads outside the city, and for forming raised footpaths at the sides. In these roads, the surface was hardened with gravel, and although pavements were introduced shortly afterwards, the blocks were laid on a bed of small stones. Examples include the Via Praenestina and Via Latina.
+
+Via munita
+The best sources of information as regards the construction of a regulation via munita are:
+
+The many existing remains of viae publicae. These are often sufficiently well preserved to show that the rules of construction were, as far as local material allowed, minutely adhered to in practice.
+The directions for making pavements given by Vitruvius. The pavement and the via munita were identical in construction, except as regards the top layer, or surface. Pavement consisted of marble or mosaic, and via munita consisted of blocks of stone or volcanic rock.
+A passage in Statius describing the repairs of the Via Domitiana, a branch road of the Via Appia leading to Neapolis.
+After the civil engineer looked over the site of the proposed road and determined roughly where it should go, the agrimensores went to work surveying the road bed. They used two main devices, the rod and a device called a groma, which helped them obtain right angles. The gromatici, the Roman equivalent of rod men, placed rods and put down a line called the rigor. As they did not possess anything like a transit, a surveyor tried to achieve straightness by looking along the rods and commanding the gromatici to move them as required. Using the gromae they then laid out a grid on the plan of the road. If the surveyor could not see his desired endpoint, a signal fire would often be lit at the endpoint in order to guide the surveyor. The libratores then began their work using ploughs and, sometimes with the help of legionaries, with spades excavated the road bed down to bedrock or at least to the firmest ground they could find. The excavation was called the fossa, the Latin word for ditch. The depth varied according to terrain.
+
+The method varied according to geographic locality, materials available, and terrain, but the plan or ideal at which the engineer aimed was always the same. The road was constructed by filling the fossa. This was done by layering rock over other stones. Into the fossa was placed large amounts of rubble, gravel and stone, whatever fill was available. Sometimes a layer of sand was put down, if it was locally available. When the layers came to within 1 yd (1 m) or so of the surface, the subsurface was covered with gravel and tamped down, a process called pavire, or pavimentare. 
+The flat surface was then the pavimentum. It could be used as the road, or additional layers could be constructed. A statumen or "foundation" of flat stones set in cement might support the additional layers. The final steps utilized lime-based mortar, which the Romans had discovered. They seem to have mixed the mortar and the stones in the ditch. First a small layer of coarse concrete, the rudus, then a layer of fine concrete, the nucleus, went onto the pavement or statumen. Into or onto the nucleus went a course of polygonal or square paving stones, called the summa crusta. The crusta was crowned for drainage.
+An example is found in an early basalt road by the Temple of Saturn on the Clivus Capitolinus. It had travertine paving, polygonal basalt blocks, concrete bedding (substituted for the gravel), and a rain-water gutter.
+
+Engineering works
+Romans preferred to engineer solutions to obstacles rather than circumvent them. Outcrops of stone, ravines, or hilly or mountainous terrain called for cuts and tunnels. An example of this is found on the Roman road from Căzănești near the Iron Gates. This road was half carved into the rock, about 5 ft to 5 ft 9 in (1.5 to 1.75 m); the rest of the road, above the Danube, was made from wooden structure, projecting out of the cliff. The road functioned as a towpath, making the Danube navigable. Tabula Traiana memorial plaque in Serbia is all that remains of the now-submerged road.
+Roman bridges were some of the first large and lasting bridges created. River crossings were achieved by bridges, or pontes. Single slabs went over rills. A bridge could be of wood, stone, or both. Wooden bridges were constructed on pilings sunk into the river, or on stone piers. Stone arch bridges were used on larger or more permanent crossings. Most bridges also used concrete, which the Romans were the first to use for bridges. Roman bridges were so well constructed that many remain in use today.
+Causeways were built over marshy ground. The road was first marked out with pilings. Between them were sunk large quantities of stone so as to raise the causeway to more than 5 feet (1.5 metres) above the marsh. In the provinces, the Romans often did not bother with a stone causeway but used log roads (pontes longi).
+
+Military and citizen utilization
+The public road system of the Romans was thoroughly military in its aims and spirit. It was designed to unite and consolidate the conquests of the Roman people, whether within or without the limits of Italy proper. A legion on the march brought its own baggage train (impedimenta) and constructed its own camp (castra) every evening at the side of the road.
+
+Milestones and markers
+Milestones divided the Via Appia even before 250 BC into numbered miles, and most viae after 124 BC. The modern word "mile" derives from the Latin milia passuum, "one thousand  paces", each of which was five Roman feet, or in total 1,476 m (4,843 ft). A milestone, or miliarium, was a circular column on a solid rectangular base, set more than 2 feet (0.61 metres) into the ground, standing 5 feet (1.5 metres) tall, 20 inches (51 centimetres) in diameter, and weighing more than 2 tons. At the base was inscribed the number of the mile relative to the road it was on. In a panel at eye height was the distance to the Roman Forum and various other information about the officials who made or repaired the road and when. These miliaria are valuable historical documents today, and their inscriptions are collected in Volume XVII of the Corpus Inscriptionum Latinarum. Milestones permitted distances and locations to be known and recorded exactly. It was not long before historians began to refer to the milestone at which an event occurred.The Romans had a preference for standardization wherever possible, so Augustus, after becoming permanent commissioner of roads in 20 BC, set up the miliarium aureum ("golden milestone") near the Temple of Saturn. All roads were considered to begin from this gilded bronze monument. On it were listed all the major cities in the empire and distances to them. Constantine called it the umbilicus Romae ("navel of Rome"), and built a similar—although more complex—monument in Constantinople, the Milion.
+
+Itinerary maps and charts
+Combined topographical and road-maps may have existed as specialty items in some Roman libraries, but they were expensive, hard to copy and not in general use. Travelers wishing to plan a journey could consult an itinerarium, which in its most basic form was a simple list of cities and towns along a given road and the distances between them. It was only a short step from lists to a master list, or a schematic route-planner in which roads and their branches were represented more or less in parallel, as in the Tabula Peutingeriana. From this master list, parts could be copied and sold on the streets. 
+The most thorough used different symbols for cities, way stations, water courses, and so on. The Roman government from time to time would produce a master road itinerary. The first known were commissioned in 44 BC by Julius Caesar and Mark Antony. Three Greek geographers, Zenodoxus, Theodotus and Polyclitus, were hired to survey the system and compile a master itinerary; the task required over 25 years, and the resulting stone-engraved master itinerary was set up near the Pantheon. Travelers and itinerary sellers could make copies from it.
+
+Vehicles and transportation
+Outside the cities, Romans were avid riders and rode on or drove quite a number of vehicle types, some of which are mentioned here. Carts driven by oxen were used. Horse-drawn carts could travel up to 40 to 50 kilometres (25 to 31 mi) per day, while pedestrians traveled 20 to 25 kilometres (12 to 16 mi) per day. For purposes of description, Roman vehicles can be divided into the car, the coach, and the cart. Cars were used to transport one or two individuals, coaches were used to transport parties, and carts to transport cargo.
+Of the cars, the most popular was the carrus, a standard chariot form descending to the Romans from a greater antiquity. The top was open, the front closed. One survives in the Vatican. It carried a driver and a passenger. A carrus with two horses was a biga; three horses, a triga; and four horses a quadriga. The tires were of iron. When not in use, its wheels were removed for easier storage. A more luxurious version, the carpentum, transported women and officials. It had an arched overhead covering of cloth and was drawn by mules. A lighter version, the cisium, equivalent to a gig, was open above and in front and had a seat. Drawn by one or two mules or horses, it was used for cab work, the cab drivers being called cisiani. The builder was a cisarius.
+Of the coaches, the mainstay was the raeda or reda, which had four wheels. The high sides formed a sort of box in which seats were placed, with a notch on each side for entry. It carried several people with baggage up to the legal limit of 1,000 Roman librae (pounds), modern equivalent 328 kilograms (723 pounds). It was drawn by teams of oxen, horses or mules. A cloth top could be put on for weather, in which case it resembled a covered wagon. The raeda was probably the main vehicle for travel on the roads. Raedae meritoriae were hired coaches. The fiscalis raeda was a government coach. The driver and the builder were both referred to as a raedarius.
+Of the carts, the main one was the plaustrum or plostrum. This was simply a platform of boards attached to wheels and a cross-tree. The wheels, or tympana, were solid and were several centimetres (inches) thick. The sides could be built up with boards or rails. A large wicker basket was sometimes placed on it. A two-wheel version existed along with the normal four-wheel type called the plaustrum maius.
+The military used a standard wagon. Their transportation service was the cursus clabularis, after the standard wagon, called a carrus clabularius, clabularis, clavularis, or clabulare. It transported the impedimenta (baggage) of a military column.
+
+Way stations and traveler inns
+For non-military officials and people on official business who had no legion at their service, the government maintained way stations, or mansiones ("staying places"), for their use. Passports were required for identification. Mansiones were located about 25 to 30 kilometres (16 to 19 mi) apart. There the official traveller found a complete villa dedicated to his use. Often a permanent military camp or a town grew up around the mansio. For non-official travelers in need of refreshment, a private system of "inns" or cauponae were placed near the mansiones. They performed the same functions but were somewhat disreputable, as they were frequented by thieves and prostitutes. Graffiti decorate the walls of the few whose ruins have been found.
+Genteel travelers needed something better than cauponae. In the early days of the viae, when little unofficial provision existed, houses placed near the road were required by law to offer hospitality on demand. Frequented houses no doubt became the first tabernae, which were hostels, rather than the "taverns" we know today. As Rome grew, so did its tabernae, becoming more luxurious and acquiring good or bad reputations as the case might be. An example is the Tabernae Caediciae at Sinuessa on the Via Appia. It had a large storage room containing barrels of wine, cheese and ham. Many cities of today grew up around a taberna complex, such as Rheinzabern in the Rhineland, and Saverne in Alsace.
+A third system of way stations serviced vehicles and animals: the mutationes ("changing stations"). They were located every 20 to 30 kilometres (12 to 19 mi). In these complexes, the driver could purchase the services of wheelwrights, cartwrights, and equarii medici, or veterinarians. Using these stations as chariot relays, Tiberius hastened 296 kilometres (184 mi) in 24 hours to join his brother, Drusus Germanicus, who was dying of gangrene as a result of a fall from a horse.
+
+Post offices and services
+Two postal services were available under the empire, one public and one private. The cursus publicus, founded by Augustus, carried the mail of officials by relay throughout the Roman road system. The vehicle for carrying mail was a cisium with a box, but for special delivery a horse and rider was faster. On average a relay of horses could carry a letter 80 kilometres (50 mi) in a day. The postman wore a characteristic leather hat, the petanus. The postal service was a somewhat dangerous occupation, as postmen were a target for bandits and enemies of Rome. Private mail of the well-to-do was carried by tabellarii, an organization of slaves available for a price.
+
+Locations
+There are many examples of roads that still follow the route of Roman roads.
+
+Italy
+Major roads
+
+Via Aemilia, from  Rimini (Ariminum) to Placentia
+Via Appia, the Appian Way (312 BC), from Rome to Apulia
+Via Aurelia (241 BC), from Rome to France
+Via Cassia, from Rome to Tuscany
+Via Flaminia (220 BC), from Rome to  Rimini (Ariminum)
+Via Raetia, from Verona north across the Brenner Pass
+Via Salaria, from Rome to the Adriatic Sea (in the Marches)
+Others
+
+Via Aemilia in Hirpinis
+Via Aemilia Scauri (109 BC)
+Via Aquillia, branches off the Appia at Capua to the sea at Hipponium (Vibo Valentia)
+Via Brixiana, from Cremona to Brescia
+Via Canalis, from Udine, Gemona and Val Canale to Villach in Carinthia and then over Alps to Salzburg or Vienna
+Via Claudia Julia Augusta (13 BC)
+Via Claudia Nova (47 AD)
+Via Clodia, from Rome to Tuscany forming a system with the Cassia
+Via Domitiana, coast road from Naples to Formia
+Via Flacca
+Via Flavia, from Trieste (Tergeste) to Dalmatia
+Via Gemina, from Aquileia and Trieste through the Karst to Materija, Obrov, Lipa and Klana, from where, near Rijeka, descending towards Trsat (Tersatica) to continue along the Dalmatian coast
+Via Herculia
+Via Julia Augusta (8 BC), exits Aquileia
+Via Labicana, southeast from Rome, forming a system with the Praenestina
+Via Latina, southeast from Rome to Casilinum where it joined the Via Appia.
+Via Ostiensis, from Rome to Ostia
+Via Postumia (148 BC), from Aquileia through Verona across the Apennines to Genoa
+Via Popilia (132 BC), two distinct roads, one from Capua to Rhegium and the other from Ariminum through the later Veneto region
+Via Praenestina, from Rome to Praeneste
+Via Severiana, Terracina to Ostia
+Via Tiberina, from Rome to Ocriculum
+Via Tiburtina, from Rome to Tibur
+Via Traiana, a branch of Via Appia, from Benevento to Brindisi
+Via Traiana Nova (Italy), from Lake Bolsena to the Via Cassia. Known by archaeology only
+Via Valeria from Tibur to Aternum
+Via Valeria (Sicily) from Messina to Syracuse
+
+Other areas
+Africa
+
+Main road: from Sala Colonia to Carthage to Alexandria.
+In Egypt: Via Hadriana
+In Mauretania Tingitana from Tingis southward (see: Roman roads in Morocco)
+Albania / North Macedonia / Greece / Turkey
+
+Via Egnatia (146 BC) connecting Dyrrhachium (on Adriatic Sea) to Byzantium via Thessaloniki
+Austria / Serbia / Bulgaria / Turkey
+
+Via Militaris (Via Diagonalis, Via Singidunum), connecting Middle Europe and Byzantium
+Bulgaria / Romania
+
+Via Pontica
+Cyprus
+
+Via Kolossus. Connecting Paphos, the island Roman capital, with Salamis, the second bigger city and port.
+France
+In France, a Roman road is called voie romaine in vernacular language.
+
+Via Agrippa
+Via Aquitania, from Narbonne, where it connected to the Via Domitia, to the Atlantic Ocean across Toulouse and Bordeaux
+Via Domitia (118 BC), from Nîmes to the Pyrenees, where it joins to the Via Augusta at the Col de Panissars
+Roman road (Nord), extending from Dunkirk to Cassel in Nord Département
+
+Germania Inferior (Germany, Belgium, Netherlands)
+
+Roman road from Trier to Cologne
+Via Belgica (Boulogne-Cologne)
+Lower Limes Germanicus
+Interconnections between Lower Limes Germanicus and Via Belgica
+Middle East
+
+Via Maris
+Via Traiana Nova
+Petra Roman Road 1st-century Petra, Jordan
+Romania
+
+Trajan's bridge and Iron Gates road.
+Via Traiana: Porolissum  Napoca Potaissa Apulum road.
+Via Pontica: Troesmis Piroboridava Caput Stenarum Apulum Partiscum Lugio
+
+Spain and Portugal
+
+Iter ab Emerita Asturicam, from Sevilla to Gijón. Later known as Vía de la Plata (plata means "silver" in Spanish, but in this case it is a false cognate of an Arabic word balata), part of the fan of the Way of Saint James. Now it is the A-66 freeway.
+Via Augusta, from Cádiz to the Pyrénées, where it joins to the Via Domitia at the Coll de Panissars, near La Jonquera. It passes through Valencia, Tarragona (anciently Tarraco), and Barcelona.
+Camiño de Oro, ending in Ourense, capital of the Province of Ourense, passing near the village of Reboledo.
+Via Nova (or  Via XVIII), from Bracara Augusta to Asturica Augusta
+Syria
+
+Road connecting Antioch and Chalcis.
+Strata Diocletiana, along the Limes Arabicus, going through Palmyra and Damascus, and south to Arabia.
+Trans-Alpine roads
+These roads connected modern Italy and Germany:
+
+Via Claudia Augusta (47) from Altinum (now Quarto d'Altino) to Augsburg via the Reschen Pass
+
+Trans-Pyrenean roads
+Connecting Hispania and Gallia:
+
+Ab Asturica Burdigalam
+Turkey
+
+Roman road in Cilicia in south Turkey
+Roman Road of Ankara
+United Kingdom
+
+Akeman Street
+Camlet Way
+Dere Street
+Ermine Street
+Fen Causeway
+Fosse Way
+King Street
+London-West of England Roman Roads
+Peddars Way
+Pye Road
+Roman road from Silchester to Bath
+Stane Street (Chichester)
+Stane Street (Colchester)
+Stanegate
+Via Devana
+Watling Street
+
+See also
+Historic roads and trails
+Legacy of the Roman Empire
+Roman military engineering
+Ancient Roman technology
+Roman Road from Saintes to Périgueux
+Roman Road of Agrippa (Saintes–Lyon)
+
+References
+Footnotes
+General information
+Primary sources
+Further reading
+Adams, Colin. 2007. Land transport in Roman Egypt 30 BC–AD 300: A study in administration and economic history. Oxford: Oxford Univ. Press.
+Chevallier, Raymond. 1972. Les voies romaines. Paris: Colin.
+Coarelli, Filippo. 2007. Rome and environs: An archaeological guide. Berkeley: Univ. of California Press.
+Davies, Hugh, E. H. 1998. "Designing Roman roads." Britannia: Journal of Romano-British and Kindred Studies 29: 1–16.
+Erdkamp, Peter. Hunger and the Sword: Warfare and Food Supply in Roman Republican Wars (264–30 B.C.). Amsterdam: Gieben, 1998.
+Isaac, Benjamin. 1988. "The meaning of 'Limes' and 'Limitanei' in ancient sources." Journal of Roman Studies 78: 125–47.
+Laurence, Ray. 1999. The roads of Roman Italy. Mobility and cultural change. London: Routledge.
+Lewis, Michael J. T. 2001. Surveying instruments of Greece and Rome. Cambridge, UK: Cambridge Univ. Press.
+MacDonald, William L. 1982–1986. The architecture of the Roman Empire. 2 vols. Yale Publications in the History of Art 17, 35. New Haven, CT: Yale Univ. Press.
+Meijer, Fik J., and O. Van Nijf. 1992. Trade, transport and society in the ancient world: A sourcebook. London: Routledge.
+O’Connor, Colin. 1993. Roman bridges. Cambridge, UK: Cambridge Univ. Press.
+Pekáry, Thomas. 1968. Untersuchungen zu den römischen Reichsstraßen. Bonn: Habelt.
+Quilici, Lorenzo. 2008. "Land transport, Part 1: Roads and bridges." In The Oxford handbook of engineering and technology in the classical world. Edited by John P. Oleson, 551–79. New York: Oxford Univ. Press.
+Rathmann, Michael. 2003. Untersuchungen zu den Reichsstraßen in den westlichen Provinzen des Imperium Romanum. Mainz: Philipp von Zabern.
+Talbert, Richard J. A., et al. 2000. Barrington atlas of the Greek and Roman world. Princeton, NJ: Princeton Univ. Press.
+Wiseman, T. P. 1970. "Roman Republican road-building." Papers of the British School at Rome 38: 122–52.
+
+External links
+
+Maps
+
+General articles
+
+Road descriptions
+
+Roman law regarding public and private domain
+
+Road construction

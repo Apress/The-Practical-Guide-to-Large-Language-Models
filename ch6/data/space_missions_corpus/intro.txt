@@ -1,0 +1,319 @@
+--------------------------------------------------------------------------
+SECTION 0 — WHY SPACE MISSIONS MATTER
+--------------------------------------------------------------------------
+A space mission is a focused, time-bound effort to answer questions about
+the Universe, the Earth, the Moon, or other bodies, using hardware that
+must survive launch, spaceflight, and operations far from Earth. Missions
+range from small cubesats that fly for months to flagship observatories
+that work for decades. The common pattern is: define a science or
+exploration goal; design a spacecraft; launch; cruise and navigate; operate;
+downlink data; publish results; retire the hardware or extend the mission.
+
+This corpus explains the lifecycle of missions and gives plain-language
+overviews of well-known projects such as the James Webb Space Telescope,
+the Artemis lunar program, Mars rovers, sample-return craft, and more. The
+tone is “beginner-friendly but precise,” emphasizing how things work over
+memorizing dates. It is intended for teaching, Q&A, and as a base for
+continued pretraining so a model gains stable knowledge and vocabulary.
+
+--------------------------------------------------------------------------
+SECTION 1 — THE LIFECYCLE OF A SPACE MISSION
+--------------------------------------------------------------------------
+1. Concept and Requirements
+   - Science questions: What do we want to measure or observe?
+   - Mission requirements: lifetime, target, orbit or trajectory, pointing
+     stability, power budget, and data volume.
+   - Constraints: launch mass and size, cost, risk posture, schedule.
+
+2. Spacecraft Design (Bus + Payload)
+   - The “bus” is the support system: structure, power, thermal control,
+     avionics, guidance, navigation and control (GN&C), propulsion, and
+     communications.
+   - The “payload” is the reason to fly: cameras, spectrometers, drills,
+     sample containers, seismometers, radio science hardware, and so on.
+
+3. Integration and Test (I&T)
+   - Vibration (“shake”) testing simulates launch loads.
+   - Thermal-vacuum testing simulates space temperatures and vacuum.
+   - Electromagnetic compatibility checks ensure subsystems do not interfere.
+
+4. Launch and Early Operations
+   - After separation from the rocket, the spacecraft checks out, acquires
+     Sun for power, and points antennas toward Earth.
+   - Fault protection is armed: if something goes wrong, the craft enters
+     a safe mode that conserves power and waits for commands.
+
+5. Cruise, Insertion, and Deployment
+   - Deep-space missions use trajectory correction maneuvers (TCMs) to
+     refine their path. Orbiters perform an insertion burn at the target.
+   - Deployments might include solar arrays, antennas, booms, or heat shields.
+
+6. Nominal Operations
+   - Ground teams schedule contacts using Deep Space Network (DSN) antennas.
+   - The spacecraft executes time-tagged command sequences. Data are stored,
+     prioritized, and downlinked during passes.
+   - Calibration is continuous; instruments drift and need reference checks.
+
+7. Extended Operations and End of Mission
+   - If consumables and health allow, missions continue beyond their prime
+     phase with updated goals.
+   - At end of life, hardware is safed, deorbited, or sent to a disposal
+     trajectory according to planetary protection rules.
+
+--------------------------------------------------------------------------
+SECTION 2 — QUICK OVERVIEWS OF ICONIC MISSIONS (PLAIN LANGUAGE)
+--------------------------------------------------------------------------
+2.1 James Webb Space Telescope (JWST)
+    JWST is a large infrared observatory that operates around the Sun-Earth
+    L2 point, a gravitational balance location. Its mirror unfolds in space
+    and a multi-layer sunshield keeps the telescope cold. Observing in the
+    infrared lets JWST study the earliest galaxies, peer through dust in
+    stellar nurseries, and analyze exoplanet atmospheres. Operators plan
+    observations months ahead; the spacecraft slews between targets and
+    returns calibrated data to science teams for reduction and archiving.
+
+2.2 Artemis Lunar Program (Gateway, Orion, Human Landing System, CLPS)
+    Artemis is a broad effort to return humans to the Moon and build a
+    sustainable presence. Orion is the crew vehicle for deep-space travel.
+    Gateway is a planned small station in a near-rectilinear halo orbit
+    around the Moon, serving as a staging point and science platform.
+    Commercial Lunar Payload Services (CLPS) deliver robotic landers with
+    instruments and technology demos. The long-term idea is to learn to
+    live and work on and around the Moon, then push onward to Mars.
+
+2.3 Mars Rovers (Curiosity and Perseverance) and Ingenuity
+    Curiosity is a mobile chemistry lab investigating rocks, soils, and
+    past habitability. Perseverance focuses on astrobiology and collects
+    core samples for potential return to Earth. The Ingenuity helicopter
+    demonstrated powered flight in the thin Martian atmosphere, scouting
+    routes and proving aerial operations are possible. Rovers navigate with
+    stereo cameras, avoid hazards, and plan drives with ground support.
+
+2.4 Europa Clipper (Jupiter’s Moon Europa)
+    Europa likely has a global subsurface ocean beneath an icy shell.
+    Europa Clipper is designed to perform many flybys, mapping the surface,
+    probing the ice thickness, sampling particles and fields, and searching
+    for signs of habitability. Operating in Jupiter’s harsh radiation
+    environment requires shielding and careful trajectory design.
+
+2.5 Dragonfly (Titan Rotorcraft Lander)
+    Titan, a moon of Saturn, has a thick atmosphere and hydrocarbon lakes.
+    Dragonfly is a rotorcraft lander that will fly from site to site, using
+    the dense air for aerodynamic lift. It will sample surface materials,
+    study chemistry, and explore dunes and impact craters in multiple hops.
+
+2.6 Small-Body Sample Return (OSIRIS-REx / Hayabusa2)
+    Sample-return missions touch an asteroid briefly, collect material, and
+    return sealed containers to Earth. Returned samples allow laboratory work
+    far beyond what in-situ instruments can do: isotopic analysis, precise
+    mineralogy, and contamination-controlled studies that can be repeated as
+    techniques improve.
+
+2.7 Planetary Defense (Kinetic Impact and Follow-ups)
+    Demonstration missions tested whether a spacecraft can deliberately impact
+    a small body to change its orbit. Follow-up investigations measure the
+    deflection and characterize ejecta and momentum transfer efficiency. This
+    is about learning practical deflection methods long before they are needed.
+
+2.8 Long-Cruise Explorers (Voyager, New Horizons)
+    Some missions continue for decades, crossing the outer solar system.
+    Power comes from radioisotope generators, not solar arrays, because
+    sunlight is weak far from the Sun. Communication rates become very low,
+    so teams prioritize data carefully and design compact observation plans.
+
+--------------------------------------------------------------------------
+SECTION 3 — SPACECRAFT SUBSYSTEMS (A QUICK PRIMER)
+--------------------------------------------------------------------------
+Power
+  - Solar arrays convert sunlight to electricity. Batteries bridge eclipses.
+  - Radioisotope power systems provide steady power where sunlight is scarce.
+
+Thermal Control
+  - Radiators reject heat; heaters prevent components from freezing.
+  - Multi-layer insulation reduces thermal flux. Sunshields block sunlight.
+
+Attitude Determination and Control (ADCS)
+  - Star trackers, gyros, and Sun sensors determine orientation.
+  - Reaction wheels, control moment gyros, and thrusters adjust pointing.
+
+Propulsion
+  - Chemical thrusters provide impulsive burns for maneuvers.
+  - Electric propulsion (ion or Hall) gives efficient, low-thrust acceleration
+    for long periods, ideal for deep-space trajectory shaping.
+
+Communications
+  - X-band and Ka-band are common for deep-space telemetry. Optical comm is an
+    emerging option for higher data rates.
+  - High-gain antennas provide narrow, efficient beams. Low-gain antennas are
+    used during safe modes and near Earth.
+
+Computers and Software
+  - Flight computers run real-time operating systems with fault protection.
+  - Command sequences are time-tagged; autonomy handles off-nominal events.
+
+Mechanisms
+  - Deployments (booms, antennas, mirrors, lander legs) use motors and latches.
+  - Redundancy is common; mechanisms are tested extensively on the ground.
+
+--------------------------------------------------------------------------
+SECTION 4 — ORBITS, TRAJECTORIES, AND TARGETING
+--------------------------------------------------------------------------
+Low Earth Orbit (LEO)
+  - A common staging regime for crew vehicles, cargo craft, and Earth-observing
+    satellites. Operations are dynamic: frequent passes, short light-time.
+
+Lagrange Points (L1, L2, etc.)
+  - Near-equilibrium locations in a rotating two-body system. Sun-Earth L2 is
+    useful for infrared astronomy: continuous cold conditions and wide sky view.
+
+Interplanetary Transfers
+  - Hohmann transfers are efficient two-impulse trajectories between circular
+    orbits. Gravity assists use flybys of planets or moons to bend and boost
+    trajectories without expending much propellant.
+
+Entry, Descent, and Landing (EDL)
+  - Aerobraking and parachutes slow vehicles with atmosphere to work with.
+  - Propulsive landing handles final descent, sometimes with hazard-avoidance
+    sensors and terrain-relative navigation.
+
+Navigation
+  - Radiometric tracking (range, Doppler) and optical navigation (images) are
+    combined to estimate trajectory. Small trajectory correction maneuvers keep
+    the spacecraft on target.
+
+--------------------------------------------------------------------------
+SECTION 5 — GROUND SEGMENT AND OPERATIONS
+--------------------------------------------------------------------------
+Deep Space Network (DSN)
+  - A global set of large antennas that provide near-continuous coverage as
+    Earth rotates. Scheduling is tight; missions share time slots.
+
+Planning Cadence
+  - Weekly and daily cycles generate time-tagged command loads. Activities are
+  - simulated on the ground before uplink. After downlink, teams process data,
+    assess health, and plan the next cycle.
+
+Data Lifecycle
+  - Raw telemetry is unpacked into engineering and science products. Pipelines
+    apply calibrations and create higher-level products for archives. Metadata
+    records instrument states, pointing, and timing for later analysis.
+
+Fault Protection
+  - Rules monitor power, temperatures, and attitude. If thresholds are crossed,
+    the craft enters safe mode: point to the Sun, switch to low-gain antenna,
+    minimize loads, and wait for ground intervention.
+
+--------------------------------------------------------------------------
+SECTION 6 — PLANETARY PROTECTION (PLAIN LANGUAGE)
+--------------------------------------------------------------------------
+Planetary protection seeks to avoid harmful contamination. Two directions:
+  - Forward contamination: taking Earth microbes to other worlds.
+  - Back contamination: bringing material to Earth in a controlled, sterile way.
+Categories vary by target body and mission type. Sample-return includes strict
+containment and handling procedures. Documentation and traceability are essential.
+
+--------------------------------------------------------------------------
+SECTION 7 — DATA PRODUCTS AND SCIENCE WORKFLOWS
+--------------------------------------------------------------------------
+Calibrations
+  - Bias, dark current, flat-field, wavelength solutions, geometric distortion.
+  - Radiometric calibration converts counts to physical units.
+
+Archiving
+  - Mission archives publish levels (e.g., Level 0 raw, Level 1 calibrated,
+    Level 2 higher-level maps or spectra). Good archives include documentation,
+    examples, and search tools.
+
+Interpretation
+  - Observation → calibrated product → derived quantity → scientific claim.
+  - Uncertainty estimation and error budgets are vital at each step.
+
+--------------------------------------------------------------------------
+SECTION 8 — COMMON MISCONCEPTIONS (Q&A STYLE)
+--------------------------------------------------------------------------
+Q: “Do all missions use the same kind of rocket?”
+A: No. The launch vehicle is selected for mass, fairing size, target orbit or
+   trajectory, cost, and availability.
+
+Q: “Why not always use solar power?”
+A: Solar works well near the Sun, but weakens with distance. Some missions use
+   radioisotope power for steady output in deep space or shadowed environments.
+
+Q: “Why not stream video live from Jupiter?”
+A: Data rates fall sharply with distance. Missions compress and prioritize data
+   and use scheduled passes to downlink selected products.
+
+Q: “If something breaks, can astronauts repair it?”
+A: Most deep-space missions are uncrewed and far away. Hardware must be designed
+   to survive without hands-on repair.
+
+Q: “Is safe mode a failure?”
+A: Safe mode is a protective state. It prevents failure by buying time to
+   diagnose and correct issues from the ground.
+
+--------------------------------------------------------------------------
+SECTION 9 — MINI PROFILES (DIVERSE TEXT SNIPPETS)
+--------------------------------------------------------------------------
+Mission Profile: A Mars Rover Day (“Sol”)
+  - Morning: health check, wake up, heat instruments, take weather data.
+  - Midday: short drive using autonomous navigation; acquire images of targets.
+  - Afternoon: place instrument on a rock, run measurements, store results.
+  - Evening: downlink summary; plan for the next sol.
+
+Instrument Snapshot: Infrared Spectrometer (Generic)
+  - Purpose: measure thermal emission or molecular fingerprints.
+  - Operations: scan or stare; calibrate with internal sources; avoid bright
+    sources that saturate detectors.
+
+Operations Log Excerpt (Fictional but Realistic)
+  - DSN pass start 14:02 UTC. Carrier lock nominal. Telemetry shows battery at
+    86%, thermal stable. Uplinked sequence S1234 for the next 48 hours. One
+    star tracker lost lock briefly during slew; recovered automatically. No
+    command re-send required.
+
+--------------------------------------------------------------------------
+SECTION 10 — GLOSSARY (PLAIN DEFINITIONS)
+--------------------------------------------------------------------------
+Antenna, high-gain — a narrow-beam dish used for efficient communications.
+Attitude — the orientation of a spacecraft.
+Delta-v — a measure of velocity change; budgets govern maneuver capability.
+EDL — entry, descent, and landing.
+Fault protection — on-board rules that detect and respond to problems.
+Flyby — a close pass by a target without going into orbit.
+Gravity assist — using a planet’s motion to bend and boost a trajectory.
+Halo orbit — a 3D orbit around a Lagrange point.
+Insertion — a burn to enter orbit around a body.
+L2 — the Sun-Earth Lagrange point useful for astronomy.
+Payload — the instruments or experiments a mission carries.
+Radiator — a surface that sheds heat to space.
+Safe mode — protective configuration that conserves power and points antennas.
+Sun shield — layers that block sunlight to keep instruments cold.
+TCM — trajectory correction maneuver.
+Thermal vacuum test — ground test that simulates space environment.
+
+--------------------------------------------------------------------------
+SECTION 11 — BEGINNER FAQ (FOR EVALUATION AFTER DAPT)
+--------------------------------------------------------------------------
+1) Why do some missions choose L2 instead of low Earth orbit?
+2) How does a rover plan a safe path across unknown terrain?
+3) What makes a sample-return mission scientifically valuable?
+4) How does a spacecraft know where it is without GPS in deep space?
+5) Why are extended missions possible after the “prime” phase ends?
+
+--------------------------------------------------------------------------
+SECTION 12 — WRITING PROMPTS (FOR MODEL PRACTICE)
+--------------------------------------------------------------------------
+• Explain to a teenager how a space telescope stays cold without a refrigerator.
+• In three steps, describe how data move from a spacecraft to a public archive.
+• Compare solar power to radioisotope power in one paragraph.
+• Describe a fictional day of operations for a flyby mission at a comet.
+• Write a short safety briefing for a sample-return capsule recovery team.
+
+--------------------------------------------------------------------------
+SECTION 13 — STYLE NOTES
+--------------------------------------------------------------------------
+This corpus avoids fragile facts (exact dates, budgets) and emphasizes
+stable concepts, workflows, and vocabulary. The goal is to teach a model
+how to speak clearly and accurately about space missions in general, and
+about selected projects like JWST, Artemis, Mars rovers, Europa Clipper,
+and Dragonfly in particular.
