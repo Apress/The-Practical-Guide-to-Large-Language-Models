@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Assistant</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        #chat {
+            height: 450px;
+            overflow-y: auto;
+            word-wrap: break-word;
+        }
+
+        .chat-message {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 90%;
+            display: inline-block;
+        }
+
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 5px;
+        }
+
+        .chat-container.user {
+            align-items: flex-end;
+        }
+
+        .chat-container.bot {
+            align-items: flex-start;
+        }
+    </style>
+    <script>
+        function formatMessage(text) {
+            text = text.replace(/\*\*(.*?)\*\*/g, '<b>$1</b>');
+            text = text.replace(/###\s*Steps:\s*(\d+)/g, '<b>Steps: $1</b>');
+            return text;
+        }
+
+        async function sendMessage() {
+            let userInput = document.getElementById("userInput").value;
+            if (!userInput.trim()) return;
+            let chatBox = document.getElementById("chat");
+
+            let userMessage = document.createElement("div");
+            userMessage.className = "chat-container user";
+            userMessage.innerHTML = `<span class='badge bg-primary'>You:</span> <span class='text-light bg-dark p-2 rounded chat-message'>${userInput}</span>`;
+            chatBox.appendChild(userMessage);
+            document.getElementById("userInput").value = "";
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            // Add "thinking..." indicator
+            let thinkingElement = document.createElement("div");
+            thinkingElement.id = "thinking";
+            thinkingElement.className = "chat-container bot text-muted fst-italic";
+            thinkingElement.innerHTML = "AI is thinking...";
+            chatBox.appendChild(thinkingElement);
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            let response = await fetch("/chat", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({message: userInput})
+            });
+            let data = await response.json();
+
+            // Remove "thinking..." indicator
+            thinkingElement.remove();
+
+            let botMessage = document.createElement("div");
+            botMessage.className = "chat-container bot";
+            botMessage.innerHTML = `<span class='badge bg-success'>AI:</span> <span class='text-light bg-secondary p-2 rounded chat-message'>${formatMessage(data.response)}</span>`;
+            chatBox.appendChild(botMessage);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+    </script>
+</head>
+<body class="bg-light">
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white text-center">
+            <h2>AI Assistant</h2>
+        </div>
+        <div class="card-body" id="chat">
+            <!-- Chat messages appear here -->
+        </div>
+        <div class="card-footer d-flex">
+            <input type="text" id="userInput" class="form-control me-2" placeholder="Type your message..."
+                   onkeypress="if(event.key === 'Enter') sendMessage()">
+            <button class="btn btn-primary" onclick="sendMessage()">
+                <i class="bi bi-send"></i> Send
+            </button>
+        </div>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.js"></script>
+</body>
+</html>
